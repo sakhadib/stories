@@ -1,0 +1,22 @@
+{
+  "title": "গল্প",
+  "tagline": "আদিবের ভাবনা, Claude-এর কলম",
+  "description": "বাংলা দীর্ঘ গল্পের সংকলন। প্রতিটি গল্পের ভাবনা আদিব সাখাওয়াতের, আর লিখেছে Claude (Anthropic-এর এআই)। শুরুতেই খোলাখুলি জানিয়ে রাখা হলো।",
+  "url": "https://sakhadib.github.io",
+  "basePath": "/stories",
+  "language": "bn",
+  "locale": "bn_BD",
+  "owner": {
+    "name": "Adib Sakhawat",
+    "nameBn": "আদিব সাখাওয়াত",
+    "url": "https://sakhawatadib.com",
+    "github": "https://github.com/sakhadib"
+  },
+  "writer": {
+    "name": "Claude",
+    "org": "Anthropic",
+    "url": "https://www.anthropic.com/claude"
+  },
+  "twitter": "",
+  "keywords": ["বাংলা গল্প", "বাংলা উপন্যাস", "দীর্ঘ গল্প", "Bangla story", "Bengali fiction", "AI written story", "Claude"]
+}

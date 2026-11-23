@@ -1,0 +1,29 @@
+{
+  "name": "stories",
+  "version": "1.0.0",
+  "description": "Bangla long-form stories written by Claude from ideas by Adib Sakhawat",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "og": "node scripts/og.mjs",
+    "build:all": "node scripts/build.mjs && node scripts/og.mjs",
+    "serve": "npx --yes serve _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakhadib/stories.git"
+  },
+  "keywords": [],
+  "author": "Adib Sakhawat",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sakhadib/stories/issues"
+  },
+  "homepage": "https://github.com/sakhadib/stories#readme",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^18.2.1",
+    "playwright": "^1.65.1"
+  },
+  "private": true,
+  "type": "module"
+}
