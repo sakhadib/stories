@@ -18,6 +18,11 @@ Adib gives a story idea; Claude writes the full story as one Markdown file in `s
 - Natural, literary চলিত Bangla. Correct conjuncts and spelling; Bangla numerals in prose; dialogue with Bangla quotation conventions.
 - Show, don't tell; concrete Bangladeshi settings and texture where it fits the idea.
 - Keep to Adib's idea; ask only if the idea is genuinely ambiguous about something load-bearing.
+- Default voice is Humayun Ahmed's: short sentences, short paragraphs, dialogue-led, humour inside tense moments.
+- Adib's notes on the first story (keep applying these):
+  - No moral lesson. Purposelessness is a strength; endings don't need to resolve into meaning.
+  - Don't over-explain a scene or a feeling. Build it, then trust the reader to imagine it. Cut narrator asides that spell out what a moment means.
+  - Keep registers apart: narration in standard চলিত, dialogue in local/colloquial speech. Avoid colloquial words leaking into narration and bookish words leaking into dialogue.
 
 ## Site internals
 - `scripts/build.mjs` — Markdown → static HTML in `_site/` (per-story pages, home, about, 404, RSS `feed.xml`, `sitemap.xml`, `robots.txt`, JSON-LD, OG/Twitter meta).
