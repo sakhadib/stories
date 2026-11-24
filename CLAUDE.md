@@ -23,6 +23,9 @@ Adib gives a story idea; Claude writes the full story as one Markdown file in `s
   - No moral lesson. Purposelessness is a strength; endings don't need to resolve into meaning.
   - Don't over-explain a scene or a feeling. Build it, then trust the reader to imagine it. Cut narrator asides that spell out what a moment means.
   - Keep registers apart: narration in standard চলিত, dialogue in local/colloquial speech. Avoid colloquial words leaking into narration and bookish words leaking into dialogue.
+- Adib's notes on the second story:
+  - Adib's text is a situation brief, not an opening to reuse. Don't start with it verbatim; open on a scene and reveal backstory only at the moment it's needed.
+  - Grassroots characters (rickshaw pullers, helpers, vendors, domestic workers) speak with casual slang and throwaway curses (বাল, শালা, হালার পুত…) that aren't aimed at anyone. Use it naturally, without overdoing it; educated characters stay clean.
 
 ## Site internals
 - `scripts/build.mjs` — Markdown → static HTML in `_site/` (per-story pages, home, about, 404, RSS `feed.xml`, `sitemap.xml`, `robots.txt`, JSON-LD, OG/Twitter meta).
