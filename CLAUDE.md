@@ -26,6 +26,9 @@ Adib gives a story idea; Claude writes the full story as one Markdown file in `s
 - Adib's notes on the second story:
   - Adib's text is a situation brief, not an opening to reuse. Don't start with it verbatim; open on a scene and reveal backstory only at the moment it's needed.
   - Grassroots characters (rickshaw pullers, helpers, vendors, domestic workers) speak with casual slang and throwaway curses (বাল, শালা, হালার পুত…) that aren't aimed at anyone. Use it naturally, without overdoing it; educated characters stay clean.
+- Adib's notes on the third story:
+  - Slang sparingly: a few throwaway words per scene at most, not every line. Avoid extreme/vulgar words (e.g. চুতমারানি); mild ones (শালা, বাল, হালার পুত) are enough and still rare.
+  - Respect hierarchy: people don't curse in front of someone they respect (employer, elder, teacher, imam). Slang comes out among equals or when alone.
 
 ## Site internals
 - `scripts/build.mjs` — Markdown → static HTML in `_site/` (per-story pages, home, about, 404, RSS `feed.xml`, `sitemap.xml`, `robots.txt`, JSON-LD, OG/Twitter meta).
