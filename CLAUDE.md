@@ -29,6 +29,10 @@ Adib gives a story idea; Claude writes the full story as one Markdown file in `s
 - Adib's notes on the third story:
   - Slang sparingly: a few throwaway words per scene at most, not every line. Avoid extreme/vulgar words (e.g. চুতমারানি); mild ones (শালা, বাল, হালার পুত) are enough and still rare.
   - Respect hierarchy: people don't curse in front of someone they respect (employer, elder, teacher, imam). Slang comes out among equals or when alone.
+- Adib's notes on the fourth story:
+  - Endings should leave the reader wanting more: resolve the core twist, but hand some threads to the reader unresolved. No epilogue that ties everything up.
+  - Supporting characters get Humayun-style oblique, slightly unreal dialogue (tangents, odd certainties) — it's a core texture, not decoration.
+  - Twists must stay logically consistent: plant the mechanism (how it physically happened) in clues the reader can retrace.
 
 ## Site internals
 - `scripts/build.mjs` — Markdown → static HTML in `_site/` (per-story pages, home, about, 404, RSS `feed.xml`, `sitemap.xml`, `robots.txt`, JSON-LD, OG/Twitter meta).
